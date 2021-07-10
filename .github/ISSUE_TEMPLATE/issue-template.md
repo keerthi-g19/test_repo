@@ -1,0 +1,25 @@
+---
+name: Issue template
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+## Actual Behavior 
+_tell something about the issue_
+
+## Steps to close the Issue
+ _provide an overview, how you will solve the issue_
+  1.
+  1.
+
+## Check List (check only one)
+
+- [ ] Creating New Script.
+- [ ] Enhacment to Older script.
+
+## Specifications
+
+  - Language Used: _ex: python_
